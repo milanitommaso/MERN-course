@@ -1,0 +1,7 @@
+20240716	10:37:13	0a3eb81a-c0f0-4f3b-b35f-40d828ec5840	/	GET
+20240716	10:37:13	a27f9109-c2d4-436b-bdab-f2b305cbd562	/css/style.css	GET
+20240716	10:37:13	e4179224-1e3b-49fe-9ac4-5ee59ceee0a8	/favicon.ico	GET
+20240716	10:37:37	e996ce45-ef3a-4d8b-b3d5-42d95f0c0bad	/data/data.txt	GET
+20240716	10:38:00	fe00f16f-5651-446d-8b0a-8ab24ed7ce03	/data/data.txt	GET
+20240716	10:38:49	812e560d-8c70-4610-8d09-406a12afa756	/data/data.txt	GET
+20240716	10:38:57	378b6def-0d44-44b1-ad6d-cfab3bf75bf7	/data/data.json	GET
